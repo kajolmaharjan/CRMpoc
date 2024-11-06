@@ -1,0 +1,13 @@
+# Build Folders (bin/ and obj/)
+bin/
+obj/
+
+# Rider and Visual Studio IDE files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+.idea/
